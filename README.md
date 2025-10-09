@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daghancetin
 - 👀 I’m interested in Product/Database Management
-- 🌱 I’m currently learning SQL
+- 🌱 I constantly try to learn 
 - 💞️ I’m looking to collaborate on PowerBI
 - 📫 How to reach me: LinkedIn: Daghan Cetin
 
