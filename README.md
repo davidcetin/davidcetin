@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @daghancetin
-- 👀 I’m interested in Product/Database Management
-- 🌱 I constantly try to learn 
-- 💞️ I’m looking to collaborate on PowerBI
-- 📫 How to reach me: LinkedIn: Daghan Cetin
+- 👀 I’m interested in Product/Database Management 
+- 📫 How to reach me: LinkedIn: David Cetin
 
 <!---
 daghancetin/daghancetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
